@@ -4,7 +4,7 @@ import (
 	"strings"
 	"time"
 
-	"go.haiyiyun.org/log"
+	"github.com/haiyiyun/log"
 )
 
 type Duration struct {

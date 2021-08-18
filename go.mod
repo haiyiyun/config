@@ -1,3 +1,3 @@
-module go.haiyiyun.org/config
+module github.com/haiyiyun/config
 
 go 1.16
